@@ -1,7 +1,7 @@
 package com.example.springsecuritystudy.controller;
 
-import com.example.springsecuritystudy.Model.Role;
-import com.example.springsecuritystudy.Model.User;
+import com.example.springsecuritystudy.model.Role;
+import com.example.springsecuritystudy.model.User;
 import com.example.springsecuritystudy.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.annotation.Secured;

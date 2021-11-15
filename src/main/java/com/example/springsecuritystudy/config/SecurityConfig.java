@@ -1,7 +1,7 @@
 package com.example.springsecuritystudy.config;
 
 
-import com.example.springsecuritystudy.Model.Role;
+import com.example.springsecuritystudy.model.Role;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;

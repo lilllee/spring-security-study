@@ -1,6 +1,6 @@
 package com.example.springsecuritystudy.config.auth;
 
-import com.example.springsecuritystudy.Model.User;
+import com.example.springsecuritystudy.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

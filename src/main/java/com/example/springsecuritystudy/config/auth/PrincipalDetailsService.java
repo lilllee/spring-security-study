@@ -1,6 +1,6 @@
 package com.example.springsecuritystudy.config.auth;
 
-import com.example.springsecuritystudy.Model.User;
+import com.example.springsecuritystudy.model.User;
 import com.example.springsecuritystudy.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

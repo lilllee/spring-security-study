@@ -1,6 +1,6 @@
 package com.example.springsecuritystudy.repository;
 
-import com.example.springsecuritystudy.Model.User;
+import com.example.springsecuritystudy.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
